@@ -27,7 +27,7 @@ def circulate():
 ```
 
 ## Output:
-![output](cir.n.png)
+![output](./cir.n.png)
 
 ## Result:
 the program was sucessufully executed.
