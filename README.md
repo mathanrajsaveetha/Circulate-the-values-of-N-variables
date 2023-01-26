@@ -27,7 +27,8 @@ def circulate():
 ```
 
 ## Output:
-![output](./cir.n.png)
+
+![circulates the n varaibles](https://user-images.githubusercontent.com/119560501/214867476-ee3d710c-d0dc-4ad5-bcf1-b0c3455584a0.png)
 
 ## Result:
 the program was sucessufully executed.
